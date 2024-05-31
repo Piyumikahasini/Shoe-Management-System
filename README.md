@@ -1,4 +1,4 @@
-# Hello Shoe Shop Backend System
+# Shoe Management System 
 
 Welcome to the Hello Shoes Backend System project repository! This project is part of the Advanced API Development module, focusing on developing a shoe shop management system using Spring Boot and MySQL.
 
